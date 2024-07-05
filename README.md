@@ -16,7 +16,9 @@ Welcome to my machine learning repository! This repository serves as a collectio
 - Report issues or suggest enhancements using the issue tracker.
 
 ## Contact
-- Email: studenteearya@gmail.com
-- LinkedIn: linkedin.com/in/santosh-964917183
+
+- **Email:** studenteearya@gmail.com
+- **LinkedIn:** [linkedin.com/in/santosh-964917183](https://linkedin.com/in/santosh-964917183)
+
 
 
