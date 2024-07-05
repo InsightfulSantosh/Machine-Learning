@@ -15,9 +15,6 @@ Welcome to my machine learning repository! This repository serves as a collectio
 - Fork this repository, make changes, and create a pull request.
 - Report issues or suggest enhancements using the issue tracker.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 - Email: studenteearya@gmail.com
 - LinkedIn: linkedin.com/in/santosh-964917183
